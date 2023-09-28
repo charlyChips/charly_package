@@ -13,4 +13,5 @@ export 'src/http/http_manager.dart';
 export 'src/http/http_utils.dart';
 
 // PLATFORM FILE
+export 'src/platform_file/platform_file.dart';
 export 'src/platform_file/platform_file_provider.dart';
