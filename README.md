@@ -44,8 +44,11 @@ $ flutter pub add json_serializable
 Para utilizar los bricks creados primero instala mason en tu proyecto con lo siguiente:
 
 ```
-$ dart pub global activate mason_cli
-$ mason init
+dart pub global activate mason_cli
+```
+
+```
+mason init
 ```
 
 Luego en el archivo mason.yaml agrega los brics que necesites. (Ver bricks mas abajo)
@@ -53,13 +56,13 @@ Luego en el archivo mason.yaml agrega los brics que necesites. (Ver bricks mas a
 Luego corre el comando
 
 ```
-$ mason get
+mason get
 ```
 
 Y listo! ya podras utilizar los bricks con el comando
 
 ```
-$ mason make <el nombre del brick>
+mason make <el nombre del brick>
 ```
 
 # BRICKS
