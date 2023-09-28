@@ -20,12 +20,23 @@ dependencies:
 # Agrega BuildRunner y Freezed
 
 ```
-$ flutter pub add dev build_runner
-$ flutter pub add dev json_annotation
-$ flutter pub add freezed
-$ flutter pub add freezed_annotation
-$ flutter pub add json_serializable
+flutter pub add dev build_runner
+```
 
+```
+$ flutter pub add dev json_annotation
+```
+
+```
+$ flutter pub add freezed
+```
+
+```
+$ flutter pub add freezed_annotation
+```
+
+```
+$ flutter pub add json_serializable
 ```
 
 ## MASON BRICKS
